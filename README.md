@@ -8,7 +8,7 @@ Projeto visando desenvolver um modelo de para prever preços de aluguéis em Nov
 
 </br>
 
-## 📂 Estrutura do Projeto
+## 📂 Estrutura
 
 - README.md &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **# 📖 Este guia**
 - analise_eda.ipynb &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **# 📈 Análise exploratória de dados**
@@ -17,6 +17,14 @@ Projeto visando desenvolver um modelo de para prever preços de aluguéis em Nov
 - preprocessador.pkl &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;**# 💻 Pré-processador de dados do modelo**
 - requirements.txt  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;**# ✅ Arquivo de requisitos**
 - teste_indicium_precificacao.csv &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; **# 🎲 Base de dados**
+
+</br>
+
+## Requisitos
+
+- Python 3.12.8
+- Pacotes e versões listados no arquivo `requirements.txt`
+- Instale as dependências usando o comando: `pip install -r requirements.txt`
 
 </br>
 

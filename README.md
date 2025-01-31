@@ -35,7 +35,7 @@ Projeto visando desenvolver um modelo de para prever preços de aluguéis em Nov
 3. Instale as dependências usando o comando no terminal (pasta do projeto): `pip install -r requirements.txt`.
 4. Execute o Jupyter Notebook na pasta do projeto.
 5. Abra `análise_eda.ipynb` e execute todas as células para visualizar os gráficos e estatísticas.
-6. Abra `modelagem` e execute todas as célular para pré-processar os dados, treinar o modelo e salvá-lo em formato .pkl.
+6. Abra `modelagem.ipynb` e execute todas as célular para pré-processar os dados, treinar o modelo e salvá-lo em formato .pkl.
 
 </br>
 

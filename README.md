@@ -15,6 +15,7 @@ Projeto visando desenvolver um modelo de para prever preços de aluguéis em Nov
 - modelagem.ipynb &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;**# 🔧 Treinamento do modelo**
 - modelo_precos.pkl &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **# 🤖 Modelo treinado**
 - preprocessador.pkl &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;**# 💻 Pré-processador de dados do modelo**
+- relatorio_eda.pdf &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;**# 📑 Relatório da EDA em PDF**
 - requirements.txt  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;**# ✅ Arquivo de requisitos**
 - teste_indicium_precificacao.csv &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; **# 🎲 Base de dados**
 
